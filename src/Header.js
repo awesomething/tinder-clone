@@ -23,7 +23,7 @@ const Header = ({ backButton }) => {
       <Link to="/">
         <img
           className="header_logo"
-          src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
+          src="https://media.giphy.com/headers/tinder/AIS7951jYjV7.gif"
           alt="tinder logo"
         />
       </Link>
